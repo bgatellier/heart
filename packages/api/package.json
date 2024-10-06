@@ -1,6 +1,6 @@
 {
   "name": "@scodi/api",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Runner module of Scodi, which exposes an API that starts an analysis when it is requested",
   "homepage": "https://github.com/bgatellier/scodi",
   "bugs": {
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@fastify/cors": "catalog:",
-    "@scodi/common": "workspace:^4.0.0",
+    "@scodi/common": "workspace:^5.0.0",
     "ajv": "catalog:",
     "ajv-errors": "catalog:",
     "fastify": "catalog:"
@@ -43,7 +43,7 @@
     "vitest": "catalog:"
   },
   "peerDependencies": {
-    "@scodi/cli": "workspace:^4.0.0"
+    "@scodi/cli": "workspace:^5.0.0"
   },
   "engines": {
     "node": ">=18 <23"

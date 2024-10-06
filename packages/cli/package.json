@@ -1,6 +1,6 @@
 {
   "name": "@scodi/cli",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Runner module of Scodi, which starts an analysis by using a CLI",
   "homepage": "https://github.com/bgatellier/scodi",
   "bugs": {
@@ -32,7 +32,7 @@
     "prepublishOnly": "moon run common:build"
   },
   "dependencies": {
-    "@scodi/common": "workspace:^4.0.0",
+    "@scodi/common": "workspace:^5.0.0",
     "ajv": "catalog:",
     "ajv-errors": "catalog:",
     "ajv-formats": "catalog:",
