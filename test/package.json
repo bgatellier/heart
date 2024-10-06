@@ -1,15 +1,15 @@
 {
   "name": "@scodi/test",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "private": true,
   "dependencies": {
-    "@scodi/api": "workspace:^4.0.0",
-    "@scodi/cli": "workspace:^4.0.0",
-    "@scodi/greenit": "workspace:^4.0.0",
-    "@scodi/lighthouse": "workspace:^4.0.0",
-    "@scodi/mysql": "workspace:^4.0.0",
-    "@scodi/observatory": "workspace:^4.0.0",
-    "@scodi/slack": "workspace:^4.0.0",
-    "@scodi/ssllabs-server": "workspace:^4.0.0"
+    "@scodi/api": "workspace:^5.0.0",
+    "@scodi/cli": "workspace:^5.0.0",
+    "@scodi/greenit": "workspace:^5.0.0",
+    "@scodi/lighthouse": "workspace:^5.0.0",
+    "@scodi/mysql": "workspace:^5.0.0",
+    "@scodi/observatory": "workspace:^5.0.0",
+    "@scodi/slack": "workspace:^5.0.0",
+    "@scodi/ssllabs-server": "workspace:^5.0.0"
   }
 }
