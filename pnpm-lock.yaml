@@ -72,12 +72,18 @@ catalogs:
     pino-pretty:
       specifier: ^11.0.0
       version: 11.2.2
+    rimraf:
+      specifier: ^5.0.9
+      version: 5.0.10
     ts-node:
       specifier: ^10.9.1
       version: 10.9.2
     type-fest:
       specifier: ^4.9.0
       version: 4.24.0
+    typescript:
+      specifier: ^5.6.2
+      version: 5.6.2
     vitest:
       specifier: ^2.0.5
       version: 2.0.5
@@ -103,15 +109,9 @@ importers:
       jsr:
         specifier: ^0.13.2
         version: 0.13.2
-      rimraf:
-        specifier: ^5.0.9
-        version: 5.0.10
       tsconfig-moon:
         specifier: ^1.3.0
         version: 1.3.0
-      typescript:
-        specifier: ^5.6.2
-        version: 5.6.2
 
   packages/@types/greenit-cli:
     devDependencies:
@@ -152,6 +152,12 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -192,9 +198,15 @@ importers:
       fastify:
         specifier: 'catalog:'
         version: 4.28.1
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
       type-fest:
         specifier: 'catalog:'
         version: 4.24.0
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -238,9 +250,15 @@ importers:
       lighthouse:
         specifier: 'catalog:'
         version: 11.7.1
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
       type-fest:
         specifier: 'catalog:'
         version: 4.24.0
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -272,6 +290,12 @@ importers:
       memfs:
         specifier: 'catalog:'
         version: 4.11.1
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -297,6 +321,12 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -328,9 +358,15 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
       ts-node:
         specifier: 'catalog:'
         version: 10.9.2(@types/node@18.19.44)(typescript@5.6.2)
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -350,6 +386,12 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -372,6 +414,12 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)
@@ -391,6 +439,12 @@ importers:
       '@vitest/coverage-istanbul':
         specifier: 'catalog:'
         version: 2.0.5(vitest@2.0.5(@types/node@18.19.44)(jsdom@16.7.0))
+      rimraf:
+        specifier: 'catalog:'
+        version: 5.0.10
+      typescript:
+        specifier: 'catalog:'
+        version: 5.6.2
       vitest:
         specifier: 'catalog:'
         version: 2.0.5(@types/node@18.19.44)(jsdom@16.7.0)

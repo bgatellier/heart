@@ -42,7 +42,9 @@
     "@vitest/coverage-istanbul": "catalog:",
     "fastify": "catalog:",
     "lighthouse": "catalog:",
+    "rimraf": "catalog:",
     "type-fest": "catalog:",
+    "typescript": "catalog:",
     "vitest": "catalog:"
   },
   "engines": {
