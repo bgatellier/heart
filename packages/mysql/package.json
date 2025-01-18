@@ -39,7 +39,9 @@
     "@mikro-orm/cli": "catalog:",
     "@types/node": "catalog:",
     "@vitest/coverage-istanbul": "catalog:",
+    "rimraf": "catalog:",
     "ts-node": "catalog:",
+    "typescript": "catalog:",
     "vitest": "catalog:"
   },
   "peerDependencies": {

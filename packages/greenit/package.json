@@ -46,6 +46,8 @@
     "@types/node": "catalog:",
     "@vitest/coverage-istanbul": "catalog:",
     "memfs": "catalog:",
+    "rimraf": "catalog:",
+    "typescript": "catalog:",
     "vitest": "catalog:"
   },
   "peerDependencies": {

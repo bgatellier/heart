@@ -26,8 +26,10 @@ catalog:
   ora: ^8.0.1
   pino: ^9.0.0
   pino-pretty: ^11.0.0
+  rimraf: ^5.0.9
   ts-node: ^10.9.1
   type-fest: ^4.9.0
+  typescript: ^5.6.2
   vitest: ^2.0.5
 
 catalogs:

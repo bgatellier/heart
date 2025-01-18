@@ -5,7 +5,8 @@
 			"./*.d.ts", // custom @types packages
 			"src/**/*.ts",
 			"tests/**/*.ts"
-		]
+		],
+		"ignore": ["templates/*.ts"]
 	},
 	"vcs": {
 		"enabled": true,

@@ -38,6 +38,8 @@
   "devDependencies": {
     "@types/node": "catalog:",
     "@vitest/coverage-istanbul": "catalog:",
+    "rimraf": "catalog:",
+    "typescript": "catalog:",
     "vitest": "catalog:"
   },
   "peerDependencies": {
